@@ -1,0 +1,6 @@
+mcl_core
+mcl_chests
+mcl_init
+mcl_signs
+mcl_torches
+mcl_formspec
